@@ -28,8 +28,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dg950&show_icons=true&locale=en" alt="dg950" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dg950&" alt="dg950" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dg950&show_icons=true&locale=en&layout=compact" alt="dg950" /></p>
+<div>
+  <a href="https://github.com/Fernando-A-Rocha">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fernando-A-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-A-Rocha&layout=compact&langs_count=7&theme=dark">
+  </a>
+</div>
