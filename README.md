@@ -28,9 +28,9 @@
 
 
 
-<div>
-  <a href="https://github.com/Fernando-A-Rocha">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DG950&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DG950&layout=compact&langs_count=7&theme=dark">
-  </a>
-</div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DG950&show_icons=true&theme=dark&locale=en" alt="DG950" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DG950&theme=dark" alt="DG950" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DG950&show_icons=true&theme=dark&locale=en&layout=compact" alt="DG950" /></p>
